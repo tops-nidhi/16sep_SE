@@ -1,0 +1,30 @@
+Loop is used for execute the block of the code|statement
+----------------------------------------------------
+1.Entery controll
+
+    a.For Loop  
+    syntax:-for (i = 0; i < count; i++)
+            {
+                /* code */
+            }
+
+
+    b.While Loop
+    syntax:-while (/* condition */)
+            {
+                /* code */
+            }
+
+
+2.Exit controll
+(
+    By default this loop is execute once even if your condition is false.
+)
+    a.Do-while Loop
+    syntax:-do
+            {
+                /* code */
+            } while (/* condition */);
+------------------------------------------------------------------------
+default index 0;
+default loop was execute inifinte time.
